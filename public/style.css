@@ -9,22 +9,22 @@ body {
   color: white;
 }
 .tile-black {
-  background-color: gray;
+  background-color: rgb(230, 122, 122);
   color: whitesmoke;
 }
 
 .tile-red {
-  background-color: gray;
+  background-color: rgb(230, 122, 122);
   color: white;
 }
 
 .tile-gray {
-  background-color: gray;
+  background-color: rgb(230, 122, 122);
   color: whitesmoke;
 }
 
 .tile-gray-light {
-  background-color: #6d726d;
+  background-color: rgb(230, 122, 122);
   color: whitesmoke;
 }
 
