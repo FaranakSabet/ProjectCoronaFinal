@@ -1,0 +1,32 @@
+.hero {
+  background-color: rgb(243, 26, 11);
+  text-align: center;
+  color: white;
+}
+.tile-black {
+  background-color: gray;
+  color: whitesmoke;
+}
+
+.tile-red {
+  background-color: gray;
+  color: white;
+}
+
+.tile-gray {
+  background-color: gray;
+  color: whitesmoke;
+}
+
+.tile-gray-light {
+  background-color: #6d726d;
+  color:whitesmoke;
+}
+
+.buttons {
+  margin-top: 20px;
+  padding: auto;
+  margin-left: 20px;
+  margin-right: 20px;
+  color: white;
+}

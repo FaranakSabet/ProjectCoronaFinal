@@ -1,0 +1,22 @@
+{
+  "name": "project-corona",
+  "version": "1.0.0",
+  "description": "see covid hot spot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natanimu/project-corona.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natanimu/project-corona/issues"
+  },
+  "homepage": "https://github.com/natanimu/project-corona#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
